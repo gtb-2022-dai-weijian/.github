@@ -8,4 +8,4 @@ For my hobbies, I am really into playing computer games, such as League of Legen
 
 I am too shy to share my photo here, Let me just share my lovely cat picture.
 
-<img src="assets/IMG_8411.jpeg" alt="my cat" width="30%" />
+<img src="asset/IMG_8411.jpeg" alt="my cat" width="30%" />
